@@ -1,1 +1,0 @@
-CREATE INDEX idx_promotion_request_target_namespace ON promotion_request(target_namespace_id);
